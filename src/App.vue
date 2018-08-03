@@ -42,7 +42,7 @@
 <style lang="scss" scoped>
 .app-container {
   padding-top: 40px;
-  overflow-x: hidden;//裁剪 div 元素中内容的左/右边缘 - 如果溢出元素的内容区域的话：
+ // overflow-x: hidden;//裁剪 div 元素中内容的左/右边缘 - 如果溢出元素的内容区域的话：
 }
 .v-enter {
   opacity: 0;
